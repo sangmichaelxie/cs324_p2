@@ -1,0 +1,17 @@
+deepspeed==0.5.8
+datasets==1.17.0
+torch==1.8.1
+transformers==4.12.5
+numpy
+scipy
+matplotlib
+pandas
+sympy
+nose
+spacy
+tqdm
+wheel
+scikit-learn
+nltk
+tensorboard
+
