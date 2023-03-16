@@ -1,4 +1,4 @@
-# Project 2 (Training Language Models) for Stanford CS324: Understanding and Developing Large Language Models (Winter 2022)
+# Project 2 (Building Large Language Models) for Stanford CS324: Understanding and Developing Large Language Models (Winter 2022)
 
 This repository contains the code for project 2 on training language models in the Winter 2022 iteration of [CS324: Understanding and Developing Large Language Models](https://stanford-cs324.github.io/winter2022/) at Stanford. This code was developed by Sang Michael Xie and Percy Liang.
 - In the first part of the project, we use fine-tuning/continued-pretraining to instill length controllability into GPT-2 small, where we can control the word length of the model's generated response by prepending metadata about length. The data, preprocessing code, and training code are provided, but some hyperparameters need to be tuned.
